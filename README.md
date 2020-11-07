@@ -20,9 +20,9 @@ spring기반 microsite 서비스 개발을 위한 프로젝트 입니다.
 * MySQL
 
 ## 저작권
-* 손명지: https://github.com/ji-exitosa
+
 
 
 ## 조원정보
 * 조장: 손명지
-* 조원: 
+* 조원: [구경민](https://github.com/gkm2019)
